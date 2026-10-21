@@ -9,7 +9,7 @@ I'm ***Selvyana Natalia Purnomo***, a passionate Data Analyst with a strong focu
 ### 🚀 About Me
 
 * 🎓 Background in Accounting (Bachelor Degree)
-* 💻 Focusing on Data Analyst, and Economic Business Intelligence
+* 💻 Focusing on Data Analytics, and Economic Business Intelligence
 * 💡 I enjoy solving real-world problems and creating impactful solutions
 * 🌏 Based in Surabaya, Indonesia but collaborating globally!
 
